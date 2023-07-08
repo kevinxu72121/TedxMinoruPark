@@ -1,0 +1,27 @@
+title: TEDxYouth Minoru Park
+email: info.tedxminoruparkyouth@gmail.com
+location: XYZ 12000 Road. Richmond, BC
+description: >-
+  Description
+baseurl: "/" 
+url: "https://www.tedxminorupark.com" 
+username:
+  github: tedxyouthminorupark
+  linkedin: tedxyouthminorupark
+  instagram: tedxyouthminorupark
+
+collections:
+  speakers:
+    layout: speaker
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

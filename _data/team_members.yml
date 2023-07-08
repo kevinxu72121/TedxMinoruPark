@@ -1,0 +1,15 @@
+# pictures are stored in ./team_members_pics/first_last.png 
+
+# - name: FIRST LAST
+#   picture: image name under ./team_members_pics/
+#   one_liner: 64 characters
+#   full_description: >
+#     256 characters
+#   linkedin: johndoe
+
+- name: John Doe
+  one_liner: Lorem.
+  position: Lorem.
+  full_description: >
+    Lorem.
+  linkedin: johndoe

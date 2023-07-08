@@ -1,0 +1,21 @@
+2023:
+  - name: john doe
+    presentation_title: Lorem.
+    one_liner: Lorem.
+    full_description: >
+      Lorem.
+    video: link
+
+  - name: john doe
+    presentation_title: Lorem.
+    one_liner: Lorem.
+    full_description: >
+      Lorem.
+    video: link
+
+  - name: john doe
+    presentation_title: Lorem.
+    one_liner: Lorem.
+    full_description: >
+      Lorem.
+    video: link
